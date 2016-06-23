@@ -1,0 +1,28 @@
+
+#question{
+    text-align: center;
+    font-weight: bold;
+}
+
+.variant{
+    margin-bottom: 10px;
+}
+
+
+.visible_block{
+    display: block;
+}
+
+.hidden_block{
+    display: none;
+}
+
+.red_border{
+    border: solid 1px red !important;
+    color: red;
+}
+
+.green_border{
+    border: solid 1px green !important;
+    color: green;
+}
